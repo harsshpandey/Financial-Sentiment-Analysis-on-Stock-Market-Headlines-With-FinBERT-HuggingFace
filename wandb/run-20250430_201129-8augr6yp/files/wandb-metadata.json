@@ -1,0 +1,42 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.10",
+  "startedAt": "2025-04-30T14:41:29.080574Z",
+  "program": "c:\\Users\\HARSH PANDAY\\Desktop\\Financial Sentiment Analysis on Stock Market Headlines With FinBERT & HuggingFace\\main.ipynb",
+  "codePath": "Desktop\\Financial Sentiment Analysis on Stock Market Headlines With FinBERT & HuggingFace\\main.ipynb",
+  "git": {
+    "remote": "https://github.com/harsshpandey/algorithmic-trading-bot.git",
+    "commit": "4a4d7df5c26101ab6827806dd906de1fba2b93bf"
+  },
+  "email": "harsshpandey23@gmail.com",
+  "root": "c:\\Users\\HARSH PANDAY\\Desktop\\Financial Sentiment Analysis on Stock Market Headlines With FinBERT & HuggingFace",
+  "host": "LAPTOP-B0I3VQD8",
+  "executable": "c:\\Users\\HARSH PANDAY\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "codePathLocal": "main.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1022291677184",
+      "used": "611838177280"
+    }
+  },
+  "memory": {
+    "total": "16539365376"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.7"
+}
